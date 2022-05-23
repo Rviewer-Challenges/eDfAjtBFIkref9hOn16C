@@ -1,0 +1,31 @@
+{
+  "name": "mouredev-memory-game-may-2022",
+  "version": "1.0.0",
+  "description": "Solution to MoureDev May 2022 Challenge more info in https://github.com/mouredev/Monthly-App-Challenge-2022",
+  "engines": {
+    "node": "13.x",
+    "npm": "6.x"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rviewer-Challenges/eDfAjtBFIkref9hOn16C.git"
+  },
+  "keywords": [
+    "typescript",
+    "react",
+    "challenge",
+    "educational",
+    "webapp",
+    "standardjs"
+  ],
+  "author": "Raigorx Hellscream",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rviewer-Challenges/eDfAjtBFIkref9hOn16C/issues"
+  },
+  "homepage": "https://github.com/Rviewer-Challenges/eDfAjtBFIkref9hOn16C#readme"
+}
