@@ -10,7 +10,7 @@ I would have preferred to choose a most recent version due here is no legacy, co
 
 [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
-In pro to make the git history better organize conventional commits is use these are the types used
+In pro to make the git history better organize conventional commits are used these are the types used
 
 - docs: related to documentation e.g COMMENTS.md, README.md
 - typescript: changes related to typescript
