@@ -20,12 +20,18 @@
     "challenge",
     "educational",
     "webapp",
-    "standardjs"
+    "standardjs",
+    "tailwindcss"
   ],
   "author": "Raigorx Hellscream",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Rviewer-Challenges/eDfAjtBFIkref9hOn16C/issues"
   },
-  "homepage": "https://github.com/Rviewer-Challenges/eDfAjtBFIkref9hOn16C#readme"
+  "homepage": "https://github.com/Rviewer-Challenges/eDfAjtBFIkref9hOn16C#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.24",
+    "ts-standard": "^11.0.0",
+    "typescript": "^4.6.4"
+  }
 }
